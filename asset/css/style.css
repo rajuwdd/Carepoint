@@ -391,7 +391,10 @@ margin: 0 auto;
     /* column-gap: 5px; */
     row-gap: 25px; 
 }
-/*===========end  gallery section==========*/
+.gallery-wrapper .img1 img{
+    max-width: 100%;
+}
+/*========end  gallery section==========*/
 /* =======start team section ===========*/
 .team-cont{
     text-align: center;
@@ -516,7 +519,7 @@ margin: 0 auto;
 background-color: #1a1a1a;
 }
  .copyright{
-    color: #4b4343;
+    color: #797171;
     text-align: center;
 
  }
